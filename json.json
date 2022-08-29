@@ -35,14 +35,9 @@
       },
       "buttons": [
         {
-          "name": "Button name",
+          "name": "Google",
           "url": "https://google.com",
-          "emoji": "😀"
-        },
-        {
-          "name": "Button name",
-          "url": "https://google.com",
-          "emoji": "😀"
+          "emoji": "😺"
         }
         ]
     },
@@ -138,6 +133,11 @@
           "name": "Button name",
           "url": "https://google.com",
           "emoji": "😀"
+        },
+        {
+          "name": "Yandex",
+          "url": "https://ya.ru",
+          "emoji": "🦓"
         }
       ]
     }
