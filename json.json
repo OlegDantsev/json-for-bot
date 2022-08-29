@@ -18,6 +18,11 @@
           "name": "Button name",
           "url": "https://google.com",
           "emoji": "😀"
+        },
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "emoji": "😀"
         }
         ]
     },
@@ -129,11 +134,6 @@
         "url": "https://cdn.discordapp.com/attachments/1006208193430573096/1007915241738350672/unknown.png"
       },
       "buttons": [
-        {
-          "name": "Button name",
-          "url": "https://google.com",
-          "emoji": "😀"
-        },
         {
           "name": "Button name",
           "url": "https://google.com",
