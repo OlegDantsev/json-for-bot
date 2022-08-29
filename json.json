@@ -7,7 +7,11 @@
       "color": null,
       "image": {
         "url": "https://cdn.discordapp.com/attachments/1006208193430573096/1007910401431846932/logotype2x.png"
-      }
+      },
+      "button_name": "Button name",
+      "button_url": "google.com",
+      "button_name_2": "Button name",
+      "button_url_2": "google.com"
     },
     {
       "title": "Ссылки",
