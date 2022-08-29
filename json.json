@@ -9,9 +9,9 @@
         "url": "https://cdn.discordapp.com/attachments/1006208193430573096/1007910401431846932/logotype2x.png"
       },
       "button_name": "Button name",
-      "button_url": "google.com",
+      "button_url": "https://google.com",
       "button_name_2": "Button name",
-      "button_url_2": "google.com"
+      "button_url_2": "https://google.com"
     },
     {
       "title": "Ссылки",
