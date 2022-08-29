@@ -12,12 +12,12 @@
         {
           "name": "Button name",
           "url": "https://google.com",
-          "emoji": "😀",
+          "emoji": "😀"
         },
         {
           "name": "Button name",
           "url": "https://google.com",
-          "emoji": "😀",
+          "emoji": "😀"
         }
         ]
     },
@@ -32,12 +32,12 @@
         {
           "name": "Button name",
           "url": "https://google.com",
-          "emoji": "😀",
+          "emoji": "😀"
         },
         {
           "name": "Button name",
           "url": "https://google.com",
-          "emoji": "😀",
+          "emoji": "😀"
         }
         ]
     },
@@ -132,14 +132,15 @@
         {
           "name": "Button name",
           "url": "https://google.com",
-          "emoji": "😀",
+          "emoji": "😀"
         },
         {
           "name": "Button name",
           "url": "https://google.com",
-          "emoji": "😀",
+          "emoji": "😀"
         }
-        ]
+      ]
+    }
   ],
   "attachments": []
 }
