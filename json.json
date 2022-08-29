@@ -8,12 +8,18 @@
       "image": {
         "url": "https://cdn.discordapp.com/attachments/1006208193430573096/1007910401431846932/logotype2x.png"
       },
-      "button_name": "Button name",
-      "button_url": "https://google.com",
-      "button_emj": "😀",
-      "button_name_2": "Button name",
-      "button_url_2": "https://google.com",
-      "button_emj_2": "😜"
+      "buttons": [
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "button_emj": "😀",
+        },
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "button_emj": "😀",
+        }
+        ]
     },
     {
       "title": "Ссылки",
@@ -22,12 +28,18 @@
       "image": {
         "url": "https://cdn.discordapp.com/attachments/1006208193430573096/1007915679963422740/unknown.png"
       },
-      "button_name": "Button name",
-      "button_url": "https://google.com",
-      "button_emj": "😀",
-      "button_name_2": "Button name",
-      "button_url_2": "https://google.com",
-      "button_emj_2": "😜"
+      "buttons": [
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "button_emj": "😀",
+        },
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "button_emj": "😀",
+        }
+        ]
     },
     {
       "title": "Роли участников сервера",
@@ -116,13 +128,18 @@
       "image": {
         "url": "https://cdn.discordapp.com/attachments/1006208193430573096/1007915241738350672/unknown.png"
       },
-      "button_name": "Button name",
-      "button_url": "https://yandex.ru",
-      "button_emj": "😀",
-      "button_name_2": "Button name",
-      "button_url_2": "https://google.com",
-      "button_emj_2": "😜"
-    }
+      "buttons": [
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "button_emj": "😀",
+        },
+        {
+          "name": "Button name",
+          "url": "https://google.com",
+          "button_emj": "😀",
+        }
+        ]
   ],
   "attachments": []
 }
