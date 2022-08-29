@@ -10,8 +10,10 @@
       },
       "button_name": "Button name",
       "button_url": "https://google.com",
+      "button_emj": "😀",
       "button_name_2": "Button name",
-      "button_url_2": "https://google.com"
+      "button_url_2": "https://google.com",
+      "button_emj_2": "😜"
     },
     {
       "title": "Ссылки",
